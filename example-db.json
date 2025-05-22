@@ -1,0 +1,36 @@
+{
+  "realtime_data": {
+    "soil_moisture": {
+      "sensor_1": 0,
+      "sensor_2": 0,
+      "sensor_3": 0,
+      "sensor_4": 0,
+      "sensor_5": 0
+    },
+    "temperature": 0.0
+  },
+  "history_data": {
+    "2025-02-02": {
+      "12:00:00": {
+        "soil_moisture": {
+          "sensor_1": 0,
+          "sensor_2": 0,
+          "sensor_3": 0,
+          "sensor_4": 0,
+          "sensor_5": 0
+        },
+        "temperature": 0.0
+      },
+      "12:30:00": {
+        "soil_moisture": {
+          "sensor_1": 0,
+          "sensor_2": 0,
+          "sensor_3": 0,
+          "sensor_4": 0,
+          "sensor_5": 0
+        },
+        "temperature": 0.0
+      }
+    }
+  }
+}
